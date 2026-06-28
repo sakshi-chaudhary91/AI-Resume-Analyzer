@@ -1,2 +1,6 @@
 streamlit
 pdfplumber
+pandas
+plotly
+google-generativeai
+python-dotenv
