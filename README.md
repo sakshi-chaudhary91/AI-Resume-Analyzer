@@ -1,4 +1,4 @@
-🚀 AI Resume Analyzer
+# 🚀 AI Resume Analyzer
 
 An AI-powered Resume Analysis tool built using Python, Streamlit, and Google Gemini API.
 
@@ -6,7 +6,7 @@ This application helps users evaluate their resumes through ATS scoring, skill g
 
 ---
 
-📸 Project Preview
+# 📸 Project Preview
 
 <h2>🏠 Home Page</h2>
 
@@ -24,7 +24,7 @@ This application helps users evaluate their resumes through ATS scoring, skill g
 
 ---
 
-✨ Features
+# ✨ Features
 
 - 📄 Upload Resume (PDF)
 - 🔍 Extract Resume Content
@@ -39,7 +39,7 @@ This application helps users evaluate their resumes through ATS scoring, skill g
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Python
 - Streamlit
@@ -51,7 +51,7 @@ This application helps users evaluate their resumes through ATS scoring, skill g
 
 ---
 
-📂 Project Structure
+# 📂 Project Structure
 
 AI-Resume-Analyzer/
 │
@@ -74,32 +74,32 @@ AI-Resume-Analyzer/
 
 ---
 
-⚙️ Installation
+# ⚙️ Installation
 
-1️⃣ Clone Repository
+## 1️⃣ Clone Repository
 
 git clone <https://github.com/sakshi-chaudhary91/AI-Resume-Analyzer.git>
 cd AI-Resume-Analyzer
 
-2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
-3️⃣ Create Environment File
+## 3️⃣ Create Environment File
 
 Create a ".env" file in the project root:
 
 GEMINI_API_KEY=your_api_key_here
 
-4️⃣ Run Application
+## 4️⃣ Run Application
 
 streamlit run app.py
 
 ---
 
-📊 Analysis Modules
+# 📊 Analysis Modules
 
-ATS Dashboard
+## ATS Dashboard
 
 - Overall ATS Score
 - Skills Score
@@ -108,13 +108,13 @@ ATS Dashboard
 - Contact Score
 - Resume Strength Badge
 
-Skill Analysis
+## Skill Analysis
 
 - Detected Skills
 - Missing Skills
 - Role-Based Missing Skills
 
-AI Analysis
+## AI Analysis
 
 - Resume Improvement Suggestions
 - Missing Technologies
@@ -122,7 +122,7 @@ AI Analysis
 
 ---
 
-🎯 Supported Roles
+# 🎯 Supported Roles
 
 - AI Engineer
 - Data Analyst
@@ -130,7 +130,7 @@ AI Analysis
 
 ---
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 - Resume vs Job Description Matching
 - AI-Based ATS Scoring
@@ -141,7 +141,7 @@ AI Analysis
 
 ---
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Sakshi Chaudhary
 
@@ -151,6 +151,6 @@ Aspiring AI/ML & Generative AI Engineer
 
 ---
 
-⭐ Support
+# ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
